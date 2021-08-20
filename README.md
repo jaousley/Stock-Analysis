@@ -24,7 +24,9 @@ As shown below, the original code ran in 0.2773438 seconds and the refactored co
 
 ![2018 original code time](https://github.com/jaousley/Stock-Analysis/blob/main/2018%20original%20code%20time.png)
 
+2018 Refactored Code Time:
 
+![VBA_Challenge_2018](https://github.com/jaousley/Stock-Analysis/blob/main/VBA_Challenge_2018.png)
 
 ## Summary
 
