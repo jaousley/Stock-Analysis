@@ -10,7 +10,7 @@ As shown below, the original code ran in 0.2734375 seconds and the refactored co
 
 2017 Original Code Time:
 
-2017 original code time .png
+![2017 original code time]2017 original code time .png
 
 INSERT PICTURES
 
