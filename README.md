@@ -1,7 +1,7 @@
 # Stock-Analysis
 
 ## Overview of Project
-The purpose of the project is to refactor the code so that Steve can expand his dataset. Currently the code runs efficiently for a dozen stocks but Steve is interested in analyzing thousands of stocks at once. The goal is to reduce the number of steps in the code and make it easier for future users to read.
+The purpose of the project is to refactor the code so that Steve can expand his dataset. Currently the code runs efficiently for a dozen stocks but Steve is interested in analyzing thousands of stocks at once. The goal is to make the analysis run quicker, reduce the steps in the code, and make it easier to read for future users. 
 
 ## Results
 The refactored code allows for an analysis to be done quicker for data in both 2017 and 2018. The code overall was reduced by about 3 steps and is easier for those who did not create the code to understand. 
