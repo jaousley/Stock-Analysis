@@ -10,7 +10,7 @@ As shown below, the original code ran in 0.2734375 seconds and the refactored co
 
 2017 Original Code Time:
 
-![2017 original code time]2017 original code time .png
+![2017 original code time](https://github.com/jaousley/Stock-Analysis/blob/main/2017%20original%20code%20time%20.png)
 
 INSERT PICTURES
 
