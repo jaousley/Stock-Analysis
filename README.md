@@ -9,6 +9,7 @@ The refactored code allows for an analysis to be done quicker for data in both 2
 As shown below, the original code ran in 0.2734375 seconds and the refactored code ran in 0.0859375 seconds
 
 2017 Original Code Time:
+
 2017 original code time .png
 
 INSERT PICTURES
