@@ -17,10 +17,14 @@ As shown below, the original code ran in 0.2734375 seconds and the refactored co
 
 ![VBA_Challenge_2017](https://github.com/jaousley/Stock-Analysis/blob/main/VBA_Challenge_2017.png)
 
-###2018
+### 2018 Results
 As shown below, the original code ran in 0.2773438 seconds and the refactored code ran in 0.09375 seconds
 
-INSERT PICTURES
+2018 Original Code Time:
+
+![2018 original code time](https://github.com/jaousley/Stock-Analysis/blob/main/2018%20original%20code%20time.png)
+
+
 
 ## Summary
 
